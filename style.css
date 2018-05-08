@@ -1,0 +1,55 @@
+
+header { 
+         background: #777
+         color: yellow;
+margin: 0;
+padding: 20px;
+
+    
+  
+         content: ebebeb
+}
+
+header h1{
+	margin: 0;
+	display: inline;
+	padding: 15px 15px 0 15px
+
+}
+
+
+
+nav ul{
+	margin: 0;
+	padding: 0 0 0 15px;
+	display: inline;
+}
+nav ul li {
+	background: purple;
+	color: white;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+}
+nav ul li a {
+	color:white;
+
+}
+.row: {
+	clear:both; 
+}
+
+}
+.col{
+	background: #777;
+	border-radius: 5px;
+	color: gray;
+	margin: .5%;
+	float: left;
+	padding: 10px;
+	width: 31%;
+}
+
+footer{
+	clear: both;
+}
